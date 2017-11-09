@@ -13,4 +13,5 @@ alert("Git Test Line3 -- From Child");
 alert("Git Test Line5 -- From Master");
 
 alert("Git Test Line6 -- From Local_Child-Branch");
+alert("Git Test Line6 -- From Local_Master-Branch");
 }
